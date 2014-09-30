@@ -1,8 +1,18 @@
 ex04
 
+19/20
+
+utiliser le formatage correct 
+voir Dart Style Guide
+
+S'il vous plaît utiliser les noms de projet plus courts (comme ex04); 
+lorsque j'utilise git je dois taper le nom de projet.
+
 ex04_pocot4 --> ex04
 
-ex04_pocot4
+structure des répertoires n'est pas correcte
+
+-1 ex04_pocot4
   ex04_pocot4
   
 -->
